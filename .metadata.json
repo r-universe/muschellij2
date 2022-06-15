@@ -1,0 +1,50 @@
+[
+  {
+    "package": "cforward",
+    "oncran": true
+  },
+  {
+    "package": "diffr",
+    "oncran": true
+  },
+  {
+    "package": "distribglm",
+    "oncran": true
+  },
+  {
+    "package": "gifti",
+    "oncran": true
+  },
+  {
+    "package": "glassdoor",
+    "oncran": true
+  },
+  {
+    "package": "leanpubr",
+    "oncran": true
+  },
+  {
+    "package": "matlabr",
+    "oncran": true
+  },
+  {
+    "package": "mscstts",
+    "oncran": true
+  },
+  {
+    "package": "neurohcp",
+    "oncran": true
+  },
+  {
+    "package": "nsrr",
+    "oncran": true
+  },
+  {
+    "package": "rscopus",
+    "oncran": true
+  },
+  {
+    "package": "stapler",
+    "oncran": true
+  }
+]

@@ -8,10 +8,6 @@
     "oncran": true
   },
   {
-    "package": "distribglm",
-    "oncran": true
-  },
-  {
     "package": "gifti",
     "oncran": true
   },

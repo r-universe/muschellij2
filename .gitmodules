@@ -13,11 +13,6 @@
 	url = https://github.com/muschellij2/diffr
 	shallow = true
 	registered = true
-[submodule "distribglm"]
-	path = distribglm
-	url = https://github.com/muschellij2/distribglm
-	shallow = true
-	registered = true
 [submodule "gifti"]
 	path = gifti
 	url = https://github.com/muschellij2/gifti

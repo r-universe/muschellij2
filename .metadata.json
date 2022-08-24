@@ -28,6 +28,10 @@
     "oncran": true
   },
   {
+    "package": "neurobase",
+    "oncran": true
+  },
+  {
     "package": "neurohcp",
     "oncran": true
   },

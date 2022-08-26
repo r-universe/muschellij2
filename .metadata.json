@@ -8,6 +8,10 @@
     "oncran": true
   },
   {
+    "package": "fslr",
+    "oncran": true
+  },
+  {
     "package": "gifti",
     "oncran": true
   },

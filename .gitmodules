@@ -8,11 +8,6 @@
 	url = https://github.com/muschellij2/cforward
 	shallow = true
 	registered = true
-[submodule "diffr"]
-	path = diffr
-	url = https://github.com/muschellij2/diffr
-	shallow = true
-	registered = true
 [submodule "fslr"]
 	path = fslr
 	url = https://github.com/muschellij2/fslr
@@ -31,11 +26,6 @@
 [submodule "leanpubr"]
 	path = leanpubr
 	url = https://github.com/muschellij2/leanpubr
-	shallow = true
-	registered = true
-[submodule "matlabr"]
-	path = matlabr
-	url = https://github.com/muschellij2/matlabr
 	shallow = true
 	registered = true
 [submodule "mscstts"]

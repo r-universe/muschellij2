@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "diffr",
+    "oncran": true
+  },
+  {
     "package": "fslr",
     "oncran": true
   },
@@ -17,6 +21,10 @@
   },
   {
     "package": "leanpubr",
+    "oncran": true
+  },
+  {
+    "package": "matlabr",
     "oncran": true
   },
   {

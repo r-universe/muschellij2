@@ -1,5 +1,21 @@
 [
   {
+    "package": "cforward",
+    "oncran": true
+  },
+  {
+    "package": "diffr",
+    "oncran": true
+  },
+  {
+    "package": "fslr",
+    "oncran": true
+  },
+  {
+    "package": "gifti",
+    "oncran": true
+  },
+  {
     "package": "glassdoor",
     "oncran": true
   },
@@ -12,22 +28,7 @@
     "oncran": true
   },
   {
-    "package": "cforward",
-    "oncran": true
-  },
-  {
-    "package": "gifti",
-    "oncran": true
-  },
-  {
-    "package": "nsrr"
-  },
-  {
-    "package": "diffr",
-    "oncran": true
-  },
-  {
-    "package": "WhiteStripe",
+    "package": "mscstts",
     "oncran": true
   },
   {
@@ -35,11 +36,14 @@
     "oncran": true
   },
   {
-    "package": "rscopus",
+    "package": "neurohcp",
     "oncran": true
   },
   {
-    "package": "mscstts",
+    "package": "nsrr"
+  },
+  {
+    "package": "rscopus",
     "oncran": true
   },
   {
@@ -47,11 +51,7 @@
     "oncran": true
   },
   {
-    "package": "fslr",
-    "oncran": true
-  },
-  {
-    "package": "neurohcp",
+    "package": "WhiteStripe",
     "oncran": true
   }
 ]

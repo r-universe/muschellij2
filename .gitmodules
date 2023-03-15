@@ -3,6 +3,26 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "cforward"]
+	path = cforward
+	url = https://github.com/muschellij2/cforward
+	shallow = true
+	registered = true
+[submodule "diffr"]
+	path = diffr
+	url = https://github.com/muschellij2/diffr
+	shallow = true
+	registered = true
+[submodule "fslr"]
+	path = fslr
+	url = https://github.com/muschellij2/fslr
+	shallow = true
+	registered = true
+[submodule "gifti"]
+	path = gifti
+	url = https://github.com/muschellij2/gifti
+	shallow = true
+	registered = true
 [submodule "glassdoor"]
 	path = glassdoor
 	url = https://github.com/muschellij2/glassdoor
@@ -18,29 +38,9 @@
 	url = https://github.com/muschellij2/matlabr
 	shallow = true
 	registered = true
-[submodule "cforward"]
-	path = cforward
-	url = https://github.com/muschellij2/cforward
-	shallow = true
-	registered = true
-[submodule "gifti"]
-	path = gifti
-	url = https://github.com/muschellij2/gifti
-	shallow = true
-	registered = true
-[submodule "nsrr"]
-	path = nsrr
-	url = https://github.com/muschellij2/nsrr
-	shallow = true
-	registered = true
-[submodule "diffr"]
-	path = diffr
-	url = https://github.com/muschellij2/diffr
-	shallow = true
-	registered = true
-[submodule "WhiteStripe"]
-	path = WhiteStripe
-	url = https://github.com/muschellij2/whitestripe
+[submodule "mscstts"]
+	path = mscstts
+	url = https://github.com/muschellij2/mscstts
 	shallow = true
 	registered = true
 [submodule "neurobase"]
@@ -48,14 +48,19 @@
 	url = https://github.com/muschellij2/neurobase
 	shallow = true
 	registered = true
+[submodule "neurohcp"]
+	path = neurohcp
+	url = https://github.com/muschellij2/neurohcp
+	shallow = true
+	registered = true
+[submodule "nsrr"]
+	path = nsrr
+	url = https://github.com/muschellij2/nsrr
+	shallow = true
+	registered = true
 [submodule "rscopus"]
 	path = rscopus
 	url = https://github.com/muschellij2/rscopus
-	shallow = true
-	registered = true
-[submodule "mscstts"]
-	path = mscstts
-	url = https://github.com/muschellij2/mscstts
 	shallow = true
 	registered = true
 [submodule "stapler"]
@@ -63,13 +68,8 @@
 	url = https://github.com/muschellij2/stapler
 	shallow = true
 	registered = true
-[submodule "fslr"]
-	path = fslr
-	url = https://github.com/muschellij2/fslr
-	shallow = true
-	registered = true
-[submodule "neurohcp"]
-	path = neurohcp
-	url = https://github.com/muschellij2/neurohcp
+[submodule "WhiteStripe"]
+	path = WhiteStripe
+	url = https://github.com/muschellij2/whitestripe
 	shallow = true
 	registered = true

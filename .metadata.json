@@ -1,6 +1,14 @@
 [
   {
+    "package": "brainR",
+    "oncran": true
+  },
+  {
     "package": "cforward",
+    "oncran": true
+  },
+  {
+    "package": "cifti",
     "oncran": true
   },
   {
@@ -12,11 +20,27 @@
     "oncran": true
   },
   {
+    "package": "gcite",
+    "oncran": true
+  },
+  {
     "package": "gifti",
     "oncran": true
   },
   {
     "package": "glassdoor",
+    "oncran": true
+  },
+  {
+    "package": "kirby21.base",
+    "oncran": true
+  },
+  {
+    "package": "kirby21.fmri",
+    "oncran": true
+  },
+  {
+    "package": "kirby21.t1",
     "oncran": true
   },
   {
@@ -33,6 +57,10 @@
   },
   {
     "package": "neurobase",
+    "oncran": true
+  },
+  {
+    "package": "neurocInstall",
     "oncran": true
   },
   {

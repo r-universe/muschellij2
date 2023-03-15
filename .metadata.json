@@ -1,21 +1,5 @@
 [
   {
-    "package": "cforward",
-    "oncran": true
-  },
-  {
-    "package": "diffr",
-    "oncran": true
-  },
-  {
-    "package": "fslr",
-    "oncran": true
-  },
-  {
-    "package": "gifti",
-    "oncran": true
-  },
-  {
     "package": "glassdoor",
     "oncran": true
   },
@@ -28,23 +12,18 @@
     "oncran": true
   },
   {
-    "package": "mscstts",
+    "package": "cforward",
     "oncran": true
   },
   {
-    "package": "neurobase",
+    "package": "gifti",
     "oncran": true
   },
   {
-    "package": "neurohcp",
-    "oncran": true
+    "package": "nsrr"
   },
   {
-    "package": "rscopus",
-    "oncran": true
-  },
-  {
-    "package": "stapler",
+    "package": "diffr",
     "oncran": true
   },
   {
@@ -52,6 +31,27 @@
     "oncran": true
   },
   {
-    "package": "nsrr"
+    "package": "neurobase",
+    "oncran": true
+  },
+  {
+    "package": "rscopus",
+    "oncran": true
+  },
+  {
+    "package": "mscstts",
+    "oncran": true
+  },
+  {
+    "package": "stapler",
+    "oncran": true
+  },
+  {
+    "package": "fslr",
+    "oncran": true
+  },
+  {
+    "package": "neurohcp",
+    "oncran": true
   }
 ]

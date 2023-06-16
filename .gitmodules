@@ -68,11 +68,6 @@
 	url = https://github.com/muschellij2/matlabr
 	shallow = true
 	registered = true
-[submodule "mscstts"]
-	path = mscstts
-	url = https://github.com/muschellij2/mscstts
-	shallow = true
-	registered = true
 [submodule "neurobase"]
 	path = neurobase
 	url = https://github.com/muschellij2/neurobase

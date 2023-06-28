@@ -1,100 +1,61 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "brainR"]
 	path = brainR
 	url = https://github.com/muschellij2/brainr
-	shallow = true
-	registered = true
 [submodule "cforward"]
 	path = cforward
 	url = https://github.com/muschellij2/cforward
-	shallow = true
-	registered = true
 [submodule "cifti"]
 	path = cifti
 	url = https://github.com/muschellij2/cifti
-	shallow = true
-	registered = true
 [submodule "diffr"]
 	path = diffr
 	url = https://github.com/muschellij2/diffr
-	shallow = true
-	registered = true
 [submodule "fslr"]
 	path = fslr
 	url = https://github.com/muschellij2/fslr
-	shallow = true
-	registered = true
 [submodule "gcite"]
 	path = gcite
 	url = https://github.com/muschellij2/gcite
-	shallow = true
-	registered = true
 [submodule "gifti"]
 	path = gifti
 	url = https://github.com/muschellij2/gifti
-	shallow = true
-	registered = true
 [submodule "glassdoor"]
 	path = glassdoor
 	url = https://github.com/muschellij2/glassdoor
-	shallow = true
-	registered = true
 [submodule "kirby21.base"]
 	path = kirby21.base
 	url = https://github.com/muschellij2/kirby21.base
-	shallow = true
-	registered = true
 [submodule "kirby21.fmri"]
 	path = kirby21.fmri
 	url = https://github.com/muschellij2/kirby21.fmri
-	shallow = true
-	registered = true
 [submodule "kirby21.t1"]
 	path = kirby21.t1
 	url = https://github.com/muschellij2/kirby21.t1
-	shallow = true
-	registered = true
 [submodule "leanpubr"]
 	path = leanpubr
 	url = https://github.com/muschellij2/leanpubr
-	shallow = true
-	registered = true
 [submodule "matlabr"]
 	path = matlabr
 	url = https://github.com/muschellij2/matlabr
-	shallow = true
-	registered = true
 [submodule "neurobase"]
 	path = neurobase
 	url = https://github.com/muschellij2/neurobase
-	shallow = true
-	registered = true
 [submodule "neurocInstall"]
 	path = neurocInstall
 	url = https://github.com/muschellij2/neurocinstall
-	shallow = true
-	registered = true
 [submodule "neurohcp"]
 	path = neurohcp
 	url = https://github.com/muschellij2/neurohcp
-	shallow = true
-	registered = true
 [submodule "rscopus"]
 	path = rscopus
 	url = https://github.com/muschellij2/rscopus
-	shallow = true
-	registered = true
 [submodule "stapler"]
 	path = stapler
 	url = https://github.com/muschellij2/stapler
-	shallow = true
-	registered = true
 [submodule "WhiteStripe"]
 	path = WhiteStripe
 	url = https://github.com/muschellij2/whitestripe
-	shallow = true
-	registered = true

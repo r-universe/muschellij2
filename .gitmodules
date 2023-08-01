@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "WhiteStripe"]
+	path = WhiteStripe
+	url = https://github.com/muschellij2/whitestripe
 [submodule "brainR"]
 	path = brainR
 	url = https://github.com/muschellij2/brainr
@@ -56,6 +59,3 @@
 [submodule "stapler"]
 	path = stapler
 	url = https://github.com/muschellij2/stapler
-[submodule "WhiteStripe"]
-	path = WhiteStripe
-	url = https://github.com/muschellij2/whitestripe

@@ -17,6 +17,9 @@
 [submodule "diffr"]
 	path = diffr
 	url = https://github.com/muschellij2/diffr
+[submodule "freesurfer"]
+	path = freesurfer
+	url = https://github.com/muschellij2/freesurfer
 [submodule "fslr"]
 	path = fslr
 	url = https://github.com/muschellij2/fslr

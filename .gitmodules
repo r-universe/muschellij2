@@ -50,9 +50,6 @@
 [submodule "neurobase"]
 	path = neurobase
 	url = https://github.com/muschellij2/neurobase
-[submodule "neurocInstall"]
-	path = neurocInstall
-	url = https://github.com/muschellij2/neurocinstall
 [submodule "neurohcp"]
 	path = neurohcp
 	url = https://github.com/muschellij2/neurohcp

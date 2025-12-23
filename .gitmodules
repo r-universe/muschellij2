@@ -41,9 +41,6 @@
 [submodule "kirby21.t1"]
 	path = kirby21.t1
 	url = https://github.com/muschellij2/kirby21.t1
-[submodule "leanpubr"]
-	path = leanpubr
-	url = https://github.com/muschellij2/leanpubr
 [submodule "matlabr"]
 	path = matlabr
 	url = https://github.com/muschellij2/matlabr

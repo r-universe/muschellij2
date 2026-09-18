@@ -53,6 +53,9 @@
 [submodule "rscopus"]
 	path = rscopus
 	url = https://github.com/muschellij2/rscopus
+[submodule "sleeper"]
+	path = sleeper
+	url = https://github.com/cran/sleeper
 [submodule "stapler"]
 	path = stapler
 	url = https://github.com/muschellij2/stapler
